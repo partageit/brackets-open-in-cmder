@@ -1,0 +1,18 @@
+{
+	"name": "brackets-open-in-cmder",
+	"title": "Open in cmder",
+	"description": "Open the project folder in cmder.",
+	"homepage": "https://github.com/partageit/brackets-open-in-cmder",
+	"version": "1.0.0",
+	"author": "David Duquenoy (https://github.com/partageit)",
+	"license": "Unlicense",
+	"categories": "shell",
+	"keywords": [
+		"terminal",
+		"shell",
+		"cmder"
+	],
+	"engines": {
+		"brackets": ">=0.36.0"
+	}
+}
